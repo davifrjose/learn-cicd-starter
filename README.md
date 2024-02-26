@@ -8,6 +8,7 @@ Make sure you're on Go version 1.20+.
 
 Create a `.env` file in the root of the project with the following contents:
 
+## Port number when running program
 ```bash
 PORT="8080"
 ```
